@@ -16,3 +16,5 @@ This program implements a system where the parent process acts as a writer and t
 It's completely made in C language with dynamic functionalities and data-independence
 Code can be easily modified to work for any one-one relationship like player-game , student-project etc. Due to pds being independant of the format 
 we dont have to change much logic making this program dynamic
+
+Demo Link: https://www.youtube.com/watch?v=tvT17MmvGs4
